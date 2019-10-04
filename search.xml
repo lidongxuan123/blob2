@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[那些年]]></title>
+    <url>%2Fblob2%2F2019%2F10%2F04%2F%E9%82%A3%E4%BA%9B%E5%B9%B4%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[testPage]]></title>
     <url>%2Fblob2%2F2019%2F10%2F03%2FtestPage%2F</url>
     <content type="text"><![CDATA[11.11.1.1 列表1 列表2 列表3 列表3.1 百度 斜体加粗P &lt;h1&gt;&lt;/h1&gt; 1234&lt;h1&gt;h1标签&lt;/h1&gt;&lt;h1&gt;h1标签&lt;/h1&gt;&lt;h1&gt;h1标签&lt;/h1&gt;&lt;h1&gt;h1标签&lt;/h1&gt; 我的内容是引用的]]></content>
